@@ -1,0 +1,23 @@
+.tutorials-container {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#e7e9ec, #e7e9ec);
+}
+.tutorials-heading {
+    font-size: 54px;
+    margin-left: 100px;
+    padding-top: 50px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.tutorials-content {
+    color: rgb(10, 1, 1);
+    font-size: 18px;
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 4px;
+}
+.tutorials-content-container {
+    width: 70%;
+}
